@@ -1,5 +1,4 @@
-# data_analytics_project1
-
+# Data Analytics Project 1
 ### Baseball Data Analytics Project
 >Dataset: https://www.kaggle.com/open-source-sports/baseball-databank
 
@@ -8,4 +7,3 @@
 2. Does birth month affect skill?
 3. Does handedness affect batting average?
 4. Which aspect of baseball (batting, fielding, or pitching) matters most for success?
-

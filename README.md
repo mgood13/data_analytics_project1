@@ -32,7 +32,6 @@
 >Box plot comparing the batting average for each player
 >Loop through master file and make 2 dataframes -> Right & Left
 >Calculate Batting average: Hits / At Bats
->
 
 
 4. Which aspect of baseball (batting, fielding, or pitching) matters most for success?
